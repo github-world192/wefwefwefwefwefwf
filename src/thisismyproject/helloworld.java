@@ -7,5 +7,11 @@ public class helloworld {
 		System.out.println("Rrr");//www
 		//w/w
 		///ww
+		/// /ff
+		/// //erg
+		/// reg/
+		/// g/reg/
+		/// re
+		/// 
 	}
 }
