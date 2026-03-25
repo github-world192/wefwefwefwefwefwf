@@ -6,5 +6,6 @@ public class helloworld {
 		System.out.println("幹你fff娘");
 		System.out.println("Rrr");//www
 		//qqq
+		///ww
 	}
 }
