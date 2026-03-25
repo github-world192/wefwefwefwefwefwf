@@ -16,14 +16,42 @@ public class helloworld {
 		/// wef/we
 		/// f/
 		/// w/ef
-		/// w/efwe
-		/// fw
-		/// e/fw
-		/// /we
-		/// f/ew
+		///ww
+				/// /ff
+				/// //erg
+				/// reg/
+				/// g/reg/
+				/// re
+				/// //wef/wef
+				/// wef/we
+				/// f/
+				/// w/ef///ww
+		/// /ff
+		/// //erg
+		/// reg/
+		/// g/reg/
+		/// re
+		/// //wef/wef
+		/// wef/we
 		/// f/
-		/// /wefwef
-		/// 
-		/// wefwef
+		/// w/ef///ww
+		/// /ff
+		/// //erg
+		/// reg/
+		/// g/reg/
+		/// re
+		/// //wef/wef
+		/// wef/we
+		/// f/
+		/// w/ef///ww
+		/// /ff
+		/// //erg
+		/// reg/
+		/// g/reg/
+		/// re
+		/// //wef/wef
+		/// wef/we
+		/// f/
+		/// w/ef
 	}
 }
