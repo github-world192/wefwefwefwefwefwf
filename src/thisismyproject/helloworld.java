@@ -12,6 +12,18 @@ public class helloworld {
 		/// reg/
 		/// g/reg/
 		/// re
+		/// //wef/wef
+		/// wef/we
+		/// f/
+		/// w/ef
+		/// w/efwe
+		/// fw
+		/// e/fw
+		/// /we
+		/// f/ew
+		/// f/
+		/// /wefwef
 		/// 
+		/// wefwef
 	}
 }
